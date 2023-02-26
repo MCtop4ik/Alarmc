@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MAlarm</string>
+
+    <string name="name">Name</string>
+    <string name="zadanie">\n</string>
+    <string name="button">Отключить будильник :)</string>
+    <string name="task_label">\n</string>
+    <string name="hint_edittext">Ответ сюда!</string>
+    <string name="back">Обратно к заданиям</string>
+    <string name="set_timer">Установить будильник</string>
+    <string name="made_by_zetni">made by Zetni</string>
+    <string name="v_1_0">v. 1.0</string>
+    <string name="save">Сохранить</string>
+    <string name="log_equations_text">Отметьте для использования в будильнике логарифмических уравнений</string>
+    <string name="log_equation_label">Логарифмические уравнения</string>
+    <string name="normal_equation_label">Обычные уравнения</string>
+    <string name="normal_equation_label_small">Отметьте для использования обычных уравнений</string>
+    <string name="normal_sample">Обычные примеры</string>
+    <string name="normal_sample_text">Отметьте для использования обычных примеров</string>
+    <string name="settings">Настройки</string>
+
+</resources>
