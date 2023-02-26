@@ -1,3 +1,9 @@
-# Alarmc
-Alarm clock application source code for my youtube tutorial video:
-https://youtu.be/PUvQd0XHwdI
+Мой школьный проект на 9 класс.
+Самара 2023
+
+Проект-2023 - печатная работа!
+
+Ссылка на приложение:
+https://clck.ru/33dg6S
+
+Пользуйтесь на здоровье
